@@ -1,0 +1,44 @@
+/* add your CSS here */
+.fact {
+  font-style: italic;
+}
+
+.items {
+  font-weight: bold;
+}
+
+.list {
+  list-style-type: none;
+  padding-left: 0pt;
+
+  }
+
+  .card-container {
+  box-shadow: 10px 10px 4px -1px rgba(235,230,235,1);
+  width: 320px;
+  border-radius: 0 0 0 0;
+  border: 1px solid #c9c3c9;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  }
+
+  .facts-container {
+    width: 298px;
+    border-radius: 0px 0px 0px 0px;
+    border: 1px solid #c9c3c9;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+
+  }
+
+  .image {
+    padding-bottom: 15px;
+    width: 320px;
+  }
+
+  .text {
+    font-size: 25px;
+  }
